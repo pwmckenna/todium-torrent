@@ -1,0 +1,40 @@
+{
+  "name": "torrent-editor",
+  "description": "Torrent url proxy that edits fields on the fly",
+  "version": "0.1.0",
+  "homepage": "https://github.com/pwmckenna/torrent-editor",
+  "author": {
+    "name": "Patrick Williams",
+    "email": "pwmckenna@gmail.com",
+    "url": "http://pwmckenna.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pwmckenna/torrent-editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pwmckenna/torrent-editor/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/pwmckenna/torrent-editor/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/torrent-editor",
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.17"
+  },
+  "keywords": [],
+  "dependencies": {
+    "url": "~0.7.9",
+    "nt": "~0.3.0"
+  }
+}
