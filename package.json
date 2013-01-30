@@ -35,7 +35,17 @@
   "keywords": [],
   "dependencies": {
     "url": "~0.7.9",
-    "nt": "~0.3.0",
-    "lodash": "~1.0.0-rc.3"
+    "q": "~0.8.12",
+    "bufferjs": "~2.0.0",
+    "bncode": "0.2.x",
+    "buffers": "0.1.x",
+    "nomnom": "1.5.x",
+    "colors": "0.5.x",
+    "async": "0.1.x",
+    "request": "2.9.x",
+    "underscore": "1.3.x",
+    "memorystream": "0.2.x",
+    "ordered-emitter": "0.1.x",
+    "streamspeed": "0.1.x"
   }
 }
