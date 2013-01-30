@@ -35,6 +35,7 @@
   "keywords": [],
   "dependencies": {
     "url": "~0.7.9",
-    "nt": "~0.3.0"
+    "nt": "~0.3.0",
+    "lodash": "~1.0.0-rc.3"
   }
 }
