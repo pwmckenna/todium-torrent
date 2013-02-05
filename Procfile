@@ -1,1 +1,1 @@
-web: node lib/torrent-editor.js
+web: node lib/todium-torrent.js
