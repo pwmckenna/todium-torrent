@@ -48,6 +48,7 @@
     "ordered-emitter": "0.1.x",
     "streamspeed": "0.1.x",
     "faye-websocket": "~0.4.3",
-    "express": "~3.1.0"
+    "express": "~3.1.0",
+    "firebase-token-generator": "~0.1.2"
   }
 }
